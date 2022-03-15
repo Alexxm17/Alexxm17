@@ -9,6 +9,6 @@
 
 <p align="center">
 <a href="https://github.com/Alexxm17/42-Barcelona">
-<img src="https://github-readme-stats-alexxm17.vercel.app/api/pin/?username=Alexxm17&repo=42-Barcelona&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Alexxm17&repo=42-Barcelona&show_owner=true&theme=react" />
 </a>&ensp;
 </p>
