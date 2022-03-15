@@ -15,6 +15,4 @@
 </a>&ensp;
 </p>
 
-views
 ![Profile Views](https://komarev.com/ghpvc/?username=Alexxm17)
-[![HitCount](http://hits.dwyl.com/Alexxm17/.svg)](http://hits.dwyl.com/Alexxm17)
