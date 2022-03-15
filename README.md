@@ -4,3 +4,11 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Alexxm17/)](https://github.com/Alexxm17/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/alex-mayo-cañas)
+
+### 💥 Working on
+
+<p align="center">
+<a href="https://github.com/Alexxm17/42-Barcelona">
+<img src="https://github-readme-stats-alexxm17.vercel.app/api/pin/?username=Alexxm17&repo=42-Barcelona&show_owner=true&theme=react" />
+</a>&ensp;
+</p>
