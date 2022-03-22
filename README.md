@@ -22,5 +22,6 @@
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Alexxm17&repo=42-Barcelona&show_owner=true&theme=react" />
 </a>&ensp;
 </p>
-
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Alexxm17)
+</div>
