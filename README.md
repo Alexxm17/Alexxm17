@@ -8,7 +8,6 @@
 <br>
 
 ### 🚀 Quick Stats
-
 <p align="left">
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Alexxm17&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
