@@ -24,6 +24,4 @@
 </a>&ensp;
 </p>
 
-<div align="center">
-     ![Profile Views](https://komarev.com/ghpvc/?username=Alexxm17)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Alexxm17)
