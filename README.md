@@ -12,9 +12,11 @@
 </h1>
 </div>
 
-### 📬 Find me at
+### 🌱 About me
 
-
+* :moyai: Cyber Security Technician
+* :desktop_computer: 42 Barcelona Student
+* :artificial_satellite: I love Pentesting
 
 ### 🚀 Quick Stats
 
